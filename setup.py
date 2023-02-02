@@ -11,7 +11,7 @@ setup(
     install_requires = [
         "voidpp-tools==1.5.4",
         "json-rpc==1.10.3",
-        "Werkzeug==0.11.5",
+        "Werkzeug==0.15.5",
         "requests==2.9.1",
     ],
 
